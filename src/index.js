@@ -31,6 +31,9 @@ require('dotenv').config();
 
 require('dotenv').config();
 
+require('dotenv').config();
+
+
 ReactDOM.render(
   <Router>
     <RootProvider>
